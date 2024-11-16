@@ -1,0 +1,20 @@
+{
+  "name": "simple-web-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js web application with Home and Contact Us pages",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "web",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
